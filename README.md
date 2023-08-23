@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://nikk022.github.io/PersonalPortfolio/](https://nikk022.github.io/PersonalPortfolio/)
 
-- 📫 How to reach me **nikhil22tale@gmail.com**
+- 📫 How to reach me **nikhilbavistaletale@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
