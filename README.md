@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="300" height="300" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikk022&label=Profile%20views&color=0e75b6&style=flat" alt="nikk022" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://nikk022.github.io/PersonalPortfolio/](https://nikk022.github.io/PersonalPortfolio/)
+- 👨‍💻 All of my projects are available at [https://nikk022.github.io/PersonalPortfolio/](https://nikk022.github.io/Personal-Portfolio/)
 
 - 📫 How to reach me **nikhilbavistale22@gmail.com**
 
