@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nikhil Bavistale</h1>
-<h3 align="center">A Learner and passionate frontend developer.</h3>
+<h3 align="center">A Learner and passionate MERN stack developer.</h3>
 
 <img align="right" alt="coding" width="300" height="300" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikk022&label=Profile%20views&color=0e75b6&style=flat" alt="nikk022" /> </p>
